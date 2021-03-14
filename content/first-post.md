@@ -1,5 +1,5 @@
 title: First Post on My Sweet New Blog
-date: <today's date>
+date: 2021-03-14
 author: Andrew
 
 # I am On My Way To Internet Fame and Fortune!
