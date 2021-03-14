@@ -1,9 +1,9 @@
-title: First Post on My Sweet New Blog
+title: Welcome to SumData 
 date: 2021-03-14
 author: Andrew
 
-# I am On My Way To Internet Fame and Fortune!
+# What to expect while browsing this blog
 
-This is my first post on my new blog. While not super informative it
-should convey my sense of excitement and eagerness to engage with you,
-the reader!
+I'm hoping to convey some of my learnings as I progress through the [PyBites PDM Course]('#'). In fact this is the very first step towards strengthing what I learn.
+
+They say that teaching is the best way to learn. Writing is the best way to learn how to teach. z
