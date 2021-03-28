@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-THEME = "pelican-alchemy"
+THEME = "simple"
 
 AUTHOR = "Andrew McPhail"
 SITENAME = "SumData Technical Blog"
