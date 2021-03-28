@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>SumData Technical Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2021-03-14T00:00:00+02:00</updated><entry><title>Welcome to SumData</title><link href="/welcome-to-sumdata.html" rel="alternate"></link><published>2021-03-14T00:00:00+02:00</published><updated>2021-03-14T00:00:00+02:00</updated><author><name>Andrew</name></author><id>tag:None,2021-03-14:/welcome-to-sumdata.html</id><summary type="html">&lt;h1&gt;What to expect while browsing this blog&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SumData Technical Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2021-03-15T00:00:00+02:00</updated><entry><title>Reading good code to get inspired</title><link href="/reading-good-code-to-get-inspired.html" rel="alternate"></link><published>2021-03-15T00:00:00+02:00</published><updated>2021-03-15T00:00:00+02:00</updated><author><name>Andrew McPhail</name></author><id>tag:None,2021-03-15:/reading-good-code-to-get-inspired.html</id><content type="html">&lt;h2&gt;How the requests library inspired me.&lt;/h2&gt;
+&lt;p&gt;Right, start of PDM week two and this is a look at how reading good code can help inspire you to write better code, improve your understanding of the Python language and speed up your rate of learning. &lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Writing good code</title><link href="/writing-good-code.html" rel="alternate"></link><published>2021-03-15T00:00:00+02:00</published><updated>2021-03-15T00:00:00+02:00</updated><author><name>Andrew McPhail</name></author><id>tag:None,2021-03-15:/writing-good-code.html</id><summary type="html">&lt;h2&gt;The 10 principles of good code&lt;/h2&gt;
+&lt;h3&gt;Short units of code&lt;/h3&gt;
+&lt;p&gt;15 lines max. Good benchmark&lt;/p&gt;
+&lt;h3&gt;simple units of code&lt;/h3&gt;
+&lt;p&gt;TOREAD: What is cyclomatic complexity? &lt;/p&gt;
+&lt;h3&gt;write code &lt;strong&gt;ONCE&lt;/strong&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;stink parade is duplicated code - Martin Fowler&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Keep unit interfaces small&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;interface:: how you interact with the code / function&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;fewer parameters == less complexity …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;The 10 principles of good code&lt;/h2&gt;
+&lt;h3&gt;Short units of code&lt;/h3&gt;
+&lt;p&gt;15 lines max. Good benchmark&lt;/p&gt;
+&lt;h3&gt;simple units of code&lt;/h3&gt;
+&lt;p&gt;TOREAD: What is cyclomatic complexity? &lt;/p&gt;
+&lt;h3&gt;write code &lt;strong&gt;ONCE&lt;/strong&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;stink parade is duplicated code - Martin Fowler&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Keep unit interfaces small&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;interface:: how you interact with the code / function&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;fewer parameters == less complexity and viceversa&lt;/p&gt;
+&lt;h3&gt;Seperate concerns in modules&lt;/h3&gt;
+&lt;p&gt;The requests library is amazingling structured and demonstrates the seperation og concerns or modularized design. &lt;/p&gt;
+&lt;p&gt;Easy to see purpose of each module at a glance. 
+namespacing.
+Follows the Zen of python &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Namespaces are one honking great idea -- lets do more of those!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Don't be afraid to build out small seperated modules to piece together your solution. Smaller more distinct&lt;/p&gt;
+&lt;h3&gt;Couple architecture components loosely&lt;/h3&gt;
+&lt;h3&gt;Keep componenets balanced&lt;/h3&gt;
+&lt;h3&gt;Keep codebase small&lt;/h3&gt;
+&lt;p&gt;complexity. readability. maintainability.&lt;/p&gt;
+&lt;h3&gt;Automate development pipelines and tests&lt;/h3&gt;
+&lt;p&gt;test test test. 
+continuous integration&lt;/p&gt;
+&lt;h3&gt;Write clean code&lt;/h3&gt;
+&lt;p&gt;Leave a place better than you found it.&lt;/p&gt;
+&lt;h4&gt;Notes:&lt;/h4&gt;
+&lt;p&gt;do the small things consistently. &lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Welcome to SumData</title><link href="/welcome-to-sumdata.html" rel="alternate"></link><published>2021-03-14T00:00:00+02:00</published><updated>2021-03-14T00:00:00+02:00</updated><author><name>Andrew</name></author><id>tag:None,2021-03-14:/welcome-to-sumdata.html</id><summary type="html">&lt;h1&gt;What to expect while browsing this blog&lt;/h1&gt;
 &lt;p&gt;I'm hoping to convey some of my learnings as I progress through the &lt;a href="" title="#"&gt;PyBites PDM Course&lt;/a&gt;. In fact this is the very first step towards strengthing what I learn.&lt;/p&gt;
 &lt;p&gt;They say that teaching is the best way to learn. Writing is the best …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;What to expect while browsing this blog&lt;/h1&gt;
 &lt;p&gt;I'm hoping to convey some of my learnings as I progress through the &lt;a href="" title="#"&gt;PyBites PDM Course&lt;/a&gt;. In fact this is the very first step towards strengthing what I learn.&lt;/p&gt;
-&lt;p&gt;They say that teaching is the best way to learn. Writing is the best way to learn how to teach. z&lt;/p&gt;</content><category term="misc"></category></entry></feed>
+&lt;p&gt;They say that teaching is the best way to learn. Writing is the best way to learn how to teach.&lt;/p&gt;</content><category term="misc"></category></entry></feed>
